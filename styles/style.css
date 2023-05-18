@@ -98,7 +98,7 @@ button {
   margin: 20px;
 }
 .custom-btn {
-  width: 250px;
+  width: 350px;
   height: 40px;
   color: #18181b;
   border-radius: 5px;
@@ -258,7 +258,7 @@ button {
   }
   
   .custom-btn {
-    width: 130px;
+    width: 350px;
     height: 40px;
     font-size: 18px;
   }
